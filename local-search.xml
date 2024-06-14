@@ -34,7 +34,7 @@
     <link href="/hexo-preview/2024/06/14/%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%87%BA%E7%8E%B0404/"/>
     <url>/hexo-preview/2024/06/14/%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%8A%E4%BC%A0%E5%87%BA%E7%8E%B0404/</url>
     
-    <content type="html"><![CDATA[<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[ <p class="note note-primary">标签111111</p> <p class="note note-danger">Label</p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     <categories>
